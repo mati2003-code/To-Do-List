@@ -1,5 +1,4 @@
 # To-Do-List
-# ToDo List App
 
 Prosta aplikacja ToDo List napisana w języku JavaScript z użyciem HTML i CSS.
 
